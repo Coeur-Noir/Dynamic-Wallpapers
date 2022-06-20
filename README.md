@@ -20,7 +20,7 @@ The « description » *.xml* file targeted by the « pointer »
 - can be named and located however you like - as long as it's referenced accordingly into the « pointer »
 - contains the full *scenario* for your slideswhow, paths to the needed pictures, durations for static picture and transitions from a picture to another
 - gives the whole duration of the slideshow ( sum of *all* durations, static + transition )
-- sets a start time, synchronized with your system time ( so slideshows can act ± as clocks or **match day and night**, or seasons or events… )
+- sets a start time, synchronized with your system time so slideshows can act ± as clocks or **match day and night**, or seasons or events…
 - may be a long file ( depending on how many pictures involved in the slideshow. )
 
 ## other helpful notes
