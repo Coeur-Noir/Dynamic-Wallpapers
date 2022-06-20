@@ -4,7 +4,8 @@ Animated ( well… rather slow transitionning ) backgrounds for Gnome desktop en
 I only show here personal, non branded material, free for any usage.\
 Tested on Ubuntu 22.04.\
 <img src="trianglify/trianglify.gif"> <img src="wood-clock-spot/wood-clock-spot.gif">\
-<img src="wood-clock/wood-clock.gif"> <img src="wood/wood.gif">
+<img src="wood-clock/wood-clock.gif"> <img src="wood/wood.gif">\
+_Those gif of course do not reflect the real duration and smoothness of transitions. Transitions are_ very _smooth._
 ## Roles of files and folders
 Gnome Control Center ( settings ) looks into\
 **/usr/share/gnome-background-properties** ( system side for all users )\
