@@ -10,110 +10,110 @@
 <!-- Cette animation commence à minuit et dure une heure. -->
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-20.jpg</file>
+    <file>/full/path/to/picture-20.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-20.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-21.jpg</to>
+    <from>/full/path/to/picture-20.jpg</from>
+    <to>/full/path/to/picture-21.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-21.jpg</file>
+    <file>/full/path/to/picture-21.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-21.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-22.jpg</to>
+    <from>/full/path/to/picture-21.jpg</from>
+    <to>/full/path/to/picture-22.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-22.jpg</file>
+    <file>/full/path/to/picture-22.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-22.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-23.jpg</to>
+    <from>/full/path/to/picture-22.jpg</from>
+    <to>/full/path/to/picture-23.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-23.jpg</file>
+    <file>/full/path/to/picture-23.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-23.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-24.jpg</to>
+    <from>/full/path/to/picture-23.jpg</from>
+    <to>/full/path/to/picture-24.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-24.jpg</file>
+    <file>/full/path/to/picture-24.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-24.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-25.jpg</to>
+    <from>/full/path/to/picture-24.jpg</from>
+    <to>/full/path/to/picture-25.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-25.jpg</file>
+    <file>/full/path/to/picture-25.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-25.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-26.jpg</to>
+    <from>/full/path/to/picture-25.jpg</from>
+    <to>/full/path/to/picture-26.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-26.jpg</file>
+    <file>/full/path/to/picture-26.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-26.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-27.jpg</to>
+    <from>/full/path/to/picture-26.jpg</from>
+    <to>/full/path/to/picture-27.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-27.jpg</file>
+    <file>/full/path/to/picture-27.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-27.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-28.jpg</to>
+    <from>/full/path/to/picture-27.jpg</from>
+    <to>/full/path/to/picture-28.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-28.jpg</file>
+    <file>/full/path/to/picture-28.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-28.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-29.jpg</to>
+    <from>/full/path/to/picture-28.jpg</from>
+    <to>/full/path/to/picture-29.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-29.jpg</file>
+    <file>/full/path/to/picture-29.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-29.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-30.jpg</to>
+    <from>/full/path/to/picture-29.jpg</from>
+    <to>/full/path/to/picture-30.jpg</to>
   </transition>
   <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-30.jpg</file>
+    <file>/full/path/to/picture-30.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-30.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-31.jpg</to>
+    <from>/full/path/to/picture-30.jpg</from>
+    <to>/full/path/to/picture-31.jpg</to>
   </transition>
     <static>
     <duration>100</duration>
-    <file>/usr/share/backgrounds/trianglify-31.jpg</file>
+    <file>/full/path/to/picture-31.jpg</file>
   </static>
   <transition>
     <duration>200</duration>
-    <from>/usr/share/backgrounds/trianglify-31.jpg</from>
-    <to>/usr/share/backgrounds/trianglify-20.jpg</to>
+    <from>/full/path/to/picture-31.jpg</from>
+    <to>/full/path/to/picture-20.jpg</to>
   </transition>
 </background>
