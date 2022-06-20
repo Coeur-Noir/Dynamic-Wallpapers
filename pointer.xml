@@ -6,4 +6,9 @@
    <filename>/full/path/to/description.xml</filename>
    <options>zoom</options>
  </wallpaper>
+ <wallpaper deleted="false">
+   <name>Other name for other slideshow</name>
+   <filename>/full/path/to/other_description.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
 </wallpapers>
