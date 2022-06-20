@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
  <wallpaper deleted="false">
-   <name>Trianglify</name>
-   <filename>/usr/share/backgrounds/trianglify.xml</filename>
+   <name>Name for slideshow</name>
+   <filename>/full/path/to/description.xml</filename>
    <options>zoom</options>
  </wallpaper>
 </wallpapers>
