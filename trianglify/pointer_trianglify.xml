@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
  <wallpaper deleted="false">
-   <name>Trianglify 01</name>
-   <filename>/usr/share/backgrounds/contest/trianglify_01.xml</filename>
+   <name>Trianglify</name>
+   <filename>/usr/share/backgrounds/trianglify.xml</filename>
    <options>zoom</options>
  </wallpaper>
 </wallpapers>
