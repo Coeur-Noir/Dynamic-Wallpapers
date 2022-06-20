@@ -4,7 +4,8 @@
 <wallpapers>
   <wallpaper deleted="false">
    <name>Wood clock</name>
-   <filename>/usr/share/backgrounds/wood-clock.xml</filename>
+<!-- This path must be adapted regarding where you saved description_wood-clock.xml -->
+   <filename>/usr/share/backgrounds/description_wood-clock.xml</filename>
    <options>zoom</options>
  </wallpaper>
 </wallpapers>
