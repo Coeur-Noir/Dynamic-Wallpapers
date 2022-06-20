@@ -7,7 +7,7 @@
     <minute>00</minute>
     <second>00</second>
   </starttime>
-<!-- Cette animation commence à minuit et dure une heure. -->
+<!-- This animation starts at midnight and lasts one hour long. -->
   <static>
     <duration>100</duration>
     <file>/usr/share/backgrounds/trianglify_20.jpg</file>
