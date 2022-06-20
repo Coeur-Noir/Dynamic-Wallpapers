@@ -32,6 +32,7 @@ Regarding elements involved in a slideshow ( both *.xml* files + pictures )
 
 Regarding *marks* in *.xml* files
 - paths to files \<filename> \<file> \<from> \<to> are absolute, full letters typed, no $HOME nor ~ nor ../ there and no need for escaping *space* character in paths ( no " nor ' nor \\ there )
+- in « pointer » there must be a different \<name> for each « description »
 - absence of \<static> crashes gnome-shell but
 - absence of \<transition> seems ok, so carefully prefer keeping all marks while setting 0.0 values
 - **launch *gnome-control-center* from terminal** to check your *.xml* files, it will spot issues ;-)
