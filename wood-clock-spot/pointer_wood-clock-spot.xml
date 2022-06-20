@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<!-- This file must be found in /usr/share/gnome-background-properties or $HOME/.local/share/gnome-background-properties -->
+<wallpapers>
+  <wallpaper deleted="false">
+   <name>Wood clock spot</name>
+   <filename>/usr/share/backgrounds/wood-clock-spot.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+</wallpapers>
