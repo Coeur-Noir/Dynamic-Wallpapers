@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<!-- This file must be found in /usr/share/gnome-background-properties or $HOME/.local/share/gnome-background-properties -->
 <wallpapers>
  <wallpaper deleted="false">
    <name>Trianglify</name>
+<!-- This path must be adapted regarding where you saved description_trianglify.xml -->
    <filename>/usr/share/backgrounds/description_trianglify.xml</filename>
    <options>zoom</options>
  </wallpaper>
