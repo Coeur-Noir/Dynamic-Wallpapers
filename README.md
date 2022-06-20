@@ -37,4 +37,4 @@ Regarding *marks* in *.xml* files
 
 ## Beware the future of these slideswhows in Gnome may be uncertain
 they still work this way in Ubuntu 22.04 though,\
-where you have the ability to set a still ( or animated ) background *per* kind of style, one for light and one for dark.
+where you have the ability to set a still ( or animated ) background ***per* style of theme**, one for light and one for dark.
