@@ -23,7 +23,7 @@ The « description » *.xml* file targeted by the « pointer »
 - sets a start time, synchronized with your system time so slideshows can act ± as clocks or **match day and night**, or seasons or events…
 - may be a long file ( depending on how many pictures involved in the slideshow. )
 
-## other helpful notes
+## Other helpful notes
 Regarding elements involved in a slideshow ( both *.xml* files + pictures )
 - if saved only system side for all users to access, they must bear read right for others - owned by *root:root* with *644* on files, *755* on parent directories
 - if saved only one user's side - owned by *$USER:$USER* with *640* on files and *750* on parent directories should be enough
