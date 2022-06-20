@@ -2,7 +2,8 @@
 Resources and how-to intended for my memory, mostly.\
 Animated ( well… rather slow transitionning ) backgrounds for Gnome desktop environment in my « pro » machines.\
 I only show here personal, non branded material, free for any usage.\
-Tested on Ubuntu 22.04.
+Tested on Ubuntu 22.04.\
+<img src="trianglify/trianglify.gif">
 ## Roles of files and folders
 Gnome Control Center ( settings ) looks into\
 **/usr/share/gnome-background-properties** ( system side for all users )\
