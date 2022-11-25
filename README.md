@@ -2,7 +2,7 @@
 Resources and how-to intended for my memory, mostly.\
 Animated ( well… rather slow transitionning ) backgrounds for Gnome desktop environment in my « pro » machines.\
 I only show here personal, non branded material, free for any usage.\
-Tested on Ubuntu 22.04.\
+Tested on Ubuntu 22.04 and 22.10\
 <img src="trianglify/trianglify.gif" title="trianglify"> <img src="wood/wood.gif" title="wood">\
 <img src="wood-clock/wood-clock.gif" title="wood-clock"> <img src="trianglify-clock/trianglify-clock.gif" title="trianglify-clock">\
 <img src="wood-clock-spot/wood-clock-spot.gif" title="wood-clock-spot"> <img src="clock-spot-24h/clock-spot-24h.gif" title="clock-spot-24h">\
