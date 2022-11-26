@@ -6,6 +6,7 @@ Tested on Ubuntu 22.04 and 22.10\
 <img src="trianglify/trianglify.gif" title="trianglify"> <img src="wood/wood.gif" title="wood">\
 <img src="wood-clock/wood-clock.gif" title="wood-clock"> <img src="trianglify-clock/trianglify-clock.gif" title="trianglify-clock">\
 <img src="wood-clock-spot/wood-clock-spot.gif" title="wood-clock-spot"> <img src="clock-spot-24h/clock-spot-24h.gif" title="clock-spot-24h">\
+<img src="Kudu-colored/kudu-colored.gif" title="Kudu-colored"> <img src="Shell-colored/shell-colored.gif" title="Shell-colored">\
 _Those gif of course do not reflect the real duration and smoothness of transitions. Transitions are_ very _smooth._
 ## Roles of files and folders
 Gnome Control Center ( settings ) looks into\
