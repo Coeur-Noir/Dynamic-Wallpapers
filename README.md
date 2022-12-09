@@ -42,5 +42,6 @@ Regarding *marks* in *.xml* files
 - **launch *gnome-control-center* from terminal** to check your *.xml* files, it will spot issues ;-)
 
 ## Beware the future of these slideswhows in Gnome may be uncertain
-they still work this way in Ubuntu 22.04 and so far 22.10 though,\
-where you have the ability to set a still ( or animated ) background ***per* style of theme**, one for light and one for dark.
+they still work this way in Ubuntu 22.04,\
+where you have the ability to set a still ( or animated ) background ***per* style of theme**, one for light and one for dark.\
+They still work so far in 22.10 too where the shift between dark and light mode is held a bit differently.
